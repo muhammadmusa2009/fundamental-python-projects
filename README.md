@@ -1,4 +1,4 @@
-# fundamental-python-projects
+# Fundamental-Python-Projects
 This repository covers all of my python basic difficulty level practise projects.
 OVERVIEW: 
   This repository covers most of my basic python projects and practise files which i've been doing since the beginning of my python learning jounrey.
